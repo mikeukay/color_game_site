@@ -27526,11 +27526,11 @@ A.LB.prototype={
 $0:function(){var s=0,r=P.at(t.P)
 var $async$$0=P.al(function(a,b){if(a===1)return P.aq(b,r)
 while(true)switch(s){case 0:s=4
-return P.aG(T.Ye("https://fireacademyio"),$async$$0)
+return P.aG(T.Ye("https://fireacademy.io"),$async$$0)
 case 4:s=b?2:3
 break
 case 2:s=5
-return P.aG(T.YH("https://fireacademyio"),$async$$0)
+return P.aG(T.YH("https://fireacademy.io"),$async$$0)
 case 5:case 3:return P.ar(null,r)}})
 return P.as($async$$0,r)},
 $S:136}
